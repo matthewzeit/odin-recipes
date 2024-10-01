@@ -1,0 +1,1 @@
+The current project is to build a basic recipe website showcasing all of the HTML knowledge I have acquired thus far.
